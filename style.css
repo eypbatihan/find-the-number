@@ -1,0 +1,60 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+body{
+    box-sizing: border-box;
+    text-align: center;
+    padding-top: 10% ;
+    background-color:#c2a6a6 ;
+    
+}
+h1{
+    margin: 1%;
+}
+img{
+    margin-top: 15px;
+}
+input{
+    margin: 1%;
+    padding: 1%;
+    font-size: 16px;
+    border: none;
+    border-radius: 5px;
+}
+#check{
+    padding: 0.6%;
+    background-color: chartreuse;
+    font-size: 20px;
+    color: brown;
+    border: none;
+    border-radius: 5px;
+   
+}
+#check:hover{
+    background-color: crimson;
+    color: chartreuse;
+    border-radius: 5px;
+   
+
+}
+#attemps{
+    margin: 1%;
+    font-size: 20px;
+}
+#reset{
+    box-sizing: border-box;
+    padding: 0.6%;
+    background-color: chartreuse;
+    font-size: 20px;
+    border: none;
+    color: brown;
+
+    border-radius: 5px;
+}
+#reset:hover{
+    background-color: crimson;
+    color: chartreuse;
+    border-radius: 5px;
+    
+}

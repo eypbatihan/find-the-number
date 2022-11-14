@@ -1,3 +1,3 @@
-# find-the-number
+# Project : find-the-number
 
 https://eypbatihan.github.io/find-the-number/
